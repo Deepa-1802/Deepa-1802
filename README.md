@@ -39,10 +39,11 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-0A66C2?style=for-the-badge&logo=jupyter&logoColor=F37626)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-0A66C2?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
-### AI & Frameworks  
-![LangChain](https://img.shields.io/badge/-LangChain-0A66C2?style=for-the-badge&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-0A66C2?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![FastAPI](https://img.shields.io/badge/-FastAPI-0A66C2?style=for-the-badge&logo=fastapi&logoColor=009688)
+### AI & Frameworks   
+
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square&logo=chainlink&logoColor=white)  
+![AutoGen](https://img.shields.io/badge/AutoGen-007ACC?style=flat-square&logo=autodesk&logoColor=white)  
+![CrewAI](https://img.shields.io/badge/CrewAI-FF2D55?style=flat-square&logo=openai&logoColor=white)  
 
 
 
