@@ -69,3 +69,9 @@
 ---
 
 ✨ *“Learning is a journey — I’m growing into a skilled Data Engineer while staying rooted in Data Science. Let’s innovate together!”* ✨
+
+## 🌐 Professional Profiles
+✨ Always happy to connect, collaborate, and share ideas!
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepa-kumar-7a7662286 )  
+- 📧 **Email:** deepakumarppm@gmail.com  
+
