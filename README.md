@@ -39,10 +39,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square)
 
-### AI & Frameworks   
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square&logo=chainlink&logoColor=white)  
-![AutoGen](https://img.shields.io/badge/AutoGen-007ACC?style=flat-square&logo=autodesk&logoColor=white)  
-![CrewAI](https://img.shields.io/badge/CrewAI-FF2D55?style=flat-square&logo=openai&logoColor=white)  
+ 
 
 
 
