@@ -11,10 +11,9 @@
 
 ## 🛠️ Skills & Tools  
 
-### Programming & Query Languages  
-![Python](https://img.shields.io/badge/-Python-0A66C2?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-0A66C2?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🚀 Programming & Query Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-000000?logo=postgresql&logoColor=white)  
 
 ### Data Engineering & Cloud  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
