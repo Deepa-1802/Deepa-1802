@@ -59,7 +59,7 @@
 
 ---
 
-## 🌐 Professional Profiles
+## 🌐 Connect with me
 Always happy to connect, collaborate, and share ideas!
 <p align="left">
   <a href="https://www.linkedin.com/in/deepa-kumar-7a7662286">
