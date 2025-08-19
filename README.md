@@ -61,7 +61,9 @@
 
 ## 🌐 Professional Profiles
  Always happy to connect, collaborate, and share ideas!
-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/deepa-kumar-7a7662286)
+- <a href="https://www.linkedin.com/in/deepa-kumar-7a7662286">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="30"/>
+</a>
 - 📧 **Email:** deepakumarppm@gmail.com
 
 
